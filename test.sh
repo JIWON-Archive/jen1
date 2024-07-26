@@ -1,4 +1,4 @@
 #! /bin/bash
 
 mkdir ./test
-echo "hi jenkins" > cat hi.txt
+echo "hi jenkins" > cat hii.txt
